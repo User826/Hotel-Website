@@ -1,0 +1,22 @@
+img {
+  float:left;
+}
+
+a {
+  margin-right:20px;
+}
+
+.banner {
+background-color: #508991;
+font-size: 100px;
+color: white;
+text-align: center;
+}
+
+body {
+  background-color: #eddeda;
+}
+
+.nav-bar {
+text-align: center;
+}

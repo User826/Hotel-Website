@@ -1,0 +1,51 @@
+body {
+  background-color: #eddeda;
+}
+
+a {
+  margin-right:20px;
+}
+
+.banner {
+background-color: #508991;
+font-size: 100px;
+color: white;
+text-align: center;
+}
+
+.nav-bar {
+text-align: center;
+}
+
+* {box-sizing:border-box}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+.next {
+  right: 0;
+}
+
+.numbertext {
+  color: white;
+  font-size: 12px;
+  padding: 10px 10px;
+  position: absolute;
+}
